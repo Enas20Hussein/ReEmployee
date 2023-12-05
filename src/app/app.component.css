@@ -1,0 +1,48 @@
+    .content {
+        padding-top: 10px;
+        margin: 10px;
+    }
+    
+    .container {
+        width: 75%;
+        margin: auto;
+    }
+    
+    .row {
+        display: flex;
+        gap: 10px;
+    }
+    
+    mat-form-field {
+        width: 100%;
+    }
+    
+    mat-radio-group {
+        width: 25%;
+    }
+    
+    .action {
+        padding: 0px 25px 20px;
+        button {
+            flex: 1;
+        }
+    }
+    
+    .example-spacer {
+        flex: 1 1 auto;
+    }
+    
+    .main-body {
+        padding-top: 20px;
+        margin: auto;
+        width: 80%;
+    }
+    
+    mat-card {
+        margin-top: 20px;
+    }
+    
+    .action {
+        display: flex;
+        gap: 10px;
+    }
